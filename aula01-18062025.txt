@@ -1,1 +1,18 @@
 Utilizando o Github pela primeira vez...
+
+APT-get é um comando usado no Linux (especialmente em distribuições como Ubuntu, Debian e Linux Mint) para instalar, atualizar e remover programas.
+
+📌 Resumo:
+APT = Advanced Package Tool (ferramenta avançada de pacotes).
+
+apt-get usa a internet ou repositórios locais para gerenciar pacotes .deb.
+
+📦 Para que serve:
+sudo apt-get install nome-do-programa → instala um programa.
+
+sudo apt-get remove nome-do-programa → remove um programa.
+
+sudo apt-get update → atualiza a lista de programas disponíveis.
+
+sudo apt-get upgrade → atualiza os programas já instalados.
+
